@@ -1,4 +1,4 @@
-# Thaumcraft 4 Research Solver & Clicker
+# GTNH Thaumcraft 4 Auto-Solver and Clicker
 
 Deterministic, coordinate-based research board solver and drag-and-drop clicker for Thaumcraft 4 / GTNH—zero OCR or computer vision required.
 
